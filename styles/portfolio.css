@@ -105,5 +105,6 @@ main{max-width: 1140px;margin:0 auto;}
     line-height: 30px; /* 166.667% */}
 .about-info-container{display: flex; justify-content: space-around;}
 .about-info{
-    text-align: center;
-}
+    text-align: center; 
+} 
+#what-i-do{padding:30px 150px;}

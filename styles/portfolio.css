@@ -82,7 +82,7 @@ nav li {
 }
 
 /*main section style*/
-
+main{max-width: 1140px;margin:0 auto;}
 
 /*about section style*/
 .about {
@@ -103,3 +103,7 @@ nav li {
     font-style: normal;
     font-weight: 400;
     line-height: 30px; /* 166.667% */}
+.about-info-container{display: flex; justify-content: space-around;}
+.about-info{
+    text-align: center;
+}
